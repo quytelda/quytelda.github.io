@@ -1,0 +1,21 @@
+url: https://tamalin.org
+theme: jekyll-theme-kernel
+
+title: Tamalin
+description: >
+        Information about me (Quytelda Kahja), my work, projects, and hobbies.
+author: Quytelda Kahja
+
+defaults:
+        -
+                scope:
+                        path: ""
+                        type: "pages"
+                values:
+                        layout: "default"
+        -
+                scope:
+                        path: ""
+                        type: "posts"
+                values:
+                        layout: "post"
