@@ -31,6 +31,7 @@ I've been fascinated with computers my whole life. I first picked up on HTML whe
 I view programming as an art as well as a science.  In my mind, beauty is an expression of balance; beautiful code balances verbosity and precision with succinct expression and efficiency.  I strive to produce this type of code in my work, and though I may write slower than other programmers, my code is always very readable, extensible, and robust.  My philosophy is to do things the right way the first time to the greatest extent possible, and always refactor when the scope of the problem changes or becomes clearer.
 
 ### Archery
+![Archery]({{ '/assets/images/archery.png' | relative_url }}){: style="float: right; width: 256px; height: 256px;" }
 I've had a passion for archery since middle school, when I started taking lessons at our local range. Despite the fact our range eventually closed, I held on to my interest and picked it up again at university.  The bow I shoot now is a 60lbs Hoyt Powermax and I am comfortable shooting ranges anywhere from 10 yards to 80 yards.
 
 ### Language Construction
