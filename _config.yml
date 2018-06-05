@@ -5,3 +5,6 @@ logo: /assets/images/avatar.png
 description: >
         Information about me (Quytelda Kahja), my work, projects, and hobbies.
 author: Quytelda Kahja
+
+plugins:
+        - jekyll-remote-theme
