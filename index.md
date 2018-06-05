@@ -1,6 +1,6 @@
 ---
-title: Quytelda Kahja
 layout: default
+title: Quytelda Kahja
 ---
 
 # About Me
