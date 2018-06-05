@@ -1,4 +1,4 @@
-theme: jekyll-theme-kernel
+remote_theme: quytelda/jekyll-theme-kernel
 
 title: Tamalin
 logo: /assets/images/avatar.png
