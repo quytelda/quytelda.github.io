@@ -21,7 +21,7 @@ A masterpiece of digital collaboration and open source development, the Linux Ke
 * SSAW (Proprietary/Unclassified FOUO) - [Dynetics Inc.](https://www.dynetics.com)
 * [FOCS](https://quytelda.github.io/focs)
 * [Babel](https://github.com/quytelda/babel)
-* The [Kernel Theme](https://quytelda.github.io/jekyll-theme-kernel) for Jekyll
+* The [Kernel Theme](https://github.com/quytelda/jekyll-theme-kernel) for Jekyll
 * The [Minimal Theme](https://pages-themes.github.io/minimal) for Jekyll - [GitHub Inc.](https://github.com)
 
 ## My Hobbies
