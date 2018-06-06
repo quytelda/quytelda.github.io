@@ -18,7 +18,7 @@ Babel is a small utility written in Haskell that generates random sequences base
 * View [Babel in the AUR](https://aur.archlinux.org/packages/babel)
 
 ## Kernel Theme for Jekyll (jekyll-theme-kernel)
-Jekyll is a static site generator most notable for it's integration with GitHub and extensive theming support.  The Kernel Theme is a simple minimalist Jekyll theme inspired by <https://www.kernel.org>.  In fact, this website uses the Kernel Theme.  You can also use the kernel theme for your website using the ruby gem `jekyll-theme-kernel` or by using [GitHub's remote themes plugin](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages).
+Jekyll is a static site generator most notable for it's integration with GitHub and extensive theming support.  The Kernel Theme is a simple minimalist Jekyll theme inspired by <https://www.kernel.org>.  In fact, this website uses the Kernel Theme.  You can also use the kernel theme for your website using the Ruby gem `jekyll-theme-kernel` or by using [GitHub's remote themes plugin](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages).
 
 * View [Kernel Theme on GitHub](https://github.com/quytelda/jekyll-theme-kernel)
 * View [Kernel Theme Demo](https://quytelda.github.io/jekyll-theme-kernel)
