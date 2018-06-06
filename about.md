@@ -31,7 +31,7 @@ I view programming as an art as well as a science.  In my mind, beauty is an exp
 
 ### Archery
 ![Archery]({{ '/assets/images/archery.png' | relative_url }}){: style="float: right; width: 256px; height: 256px;" }
-I've had a passion for archery since middle school, when I started taking lessons at our local range. Despite the fact our range eventually closed, I held on to my interest and picked it up again at university.  The bow I shoot now is a 60lbs Hoyt Powermax and I am comfortable shooting ranges anywhere from 10 yards to 80 yards.
+I've had a passion for archery since middle school, when I started taking lessons at our local range. Despite the fact our range eventually closed, I held on to my interest and picked it up again at university.  Now I'm a regular at the bay area archery ranges.  The bow I shoot is a 60lbs Hoyt Powermax and I generally shoot ranges anywhere from 10 to 80 yards.
 
 ### Language Construction
 For as long as I can remember I have been inventing scripts and language. Originally my interest derived from a fascination with cryptography, but it quickly took on a life of it's own when I started creating fantasy worlds where my languages could grow and be spoken. Now I build complete languages, cultures, mythologies, and art in the world called "Quin".
