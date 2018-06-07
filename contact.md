@@ -12,7 +12,7 @@ I'm glad you want to get in touch with me!  The fastest way to reach me is by em
 * Phone: +1 (662)-935-0789
 
 ## Web Pages
-* My Website: <http://tamalin.org>
+* My Website: <https://tamalin.org>
 * [GitHub](https://github.com/quytelda)
 * [Google+](https://plus.google.com/101651962497250411371)
 
