@@ -1,24 +1,14 @@
+title: Tamalin
+email: quytelda@tamalin.org
+description: >-
+  Information about me (Quytelda Kahja), my work, projects, and hobbies.
+baseurl: "/"
+url: "https://tamalin.org"
+github_username: quytelda
+
+# Build settings
 remote_theme: quytelda/jekyll-theme-kernel
 
-title: Tamalin
+# Theme settings
 logo: /assets/images/avatar.png
-description: >
-        Information about me (Quytelda Kahja), my work, projects, and hobbies.
 author: Quytelda Kahja
-
-plugins:
-        - jekyll-remote-theme
-
-defaults:
-        -
-                scope:
-                        path: ""
-                        type: "pages"
-                values:
-                        layout: "default"
-        -
-                scope:
-                        path: ""
-                        type: "posts"
-                values:
-                        layout: "post"
