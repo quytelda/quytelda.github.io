@@ -6,6 +6,9 @@ baseurl: "/"
 url: "https://tamalin.org"
 github_username: quytelda
 
+# Server Well-Known directory.
+include: [".well-known"]
+
 # Build settings
 remote_theme: quytelda/jekyll-theme-kernel
 
