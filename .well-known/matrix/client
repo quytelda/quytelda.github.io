@@ -1,5 +1,5 @@
 {
     "m.homeserver": {
-        "base_url": "https://sylvama.tamalin.org:8448"
+        "base_url": "https://amma.tamalin.org:8448"
     }
 }
